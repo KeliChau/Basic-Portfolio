@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Works, gallery, contact information
+Portfolio of Works, gallery, about, and contact information
